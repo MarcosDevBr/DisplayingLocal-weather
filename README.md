@@ -29,7 +29,7 @@ After creating the API key, you should wait a few minutes for it to be activated
 
 #### 1 - Run git clone
 
-https: git clone https://github.com/therruner/previsaoDoTempoReact.git
+https: git clone https://github.com/therruner/DisplayingLocal-weather.git
 
 #### 2 - Open a project folder
 
