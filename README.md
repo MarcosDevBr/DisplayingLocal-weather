@@ -19,6 +19,11 @@ In this project, we will have:
 
 The application will ask the user for permission to know their location through the browser. Then, with these coordinates, we will call the Open Wheater Map API to obtain the weather forecast for that location and, finally, display this information on the screen to the user.
 
+## Creating Open Wheater credentials
+
+Visit https://openweathermap.org, create your account and access your API key (at this URL); you will need to connect to the Open Wheather Map.
+After creating the API key, you should wait a few minutes for it to be activated (for me it took 10 minutes), after that you can use it.
+
 
 ### How to Run
 
